@@ -77,7 +77,7 @@ function replaceFirstAndLast(inputArray) {
 // For example:
 // addTen([10,20,30]); -> [20,30,40]
 // addTen([1,2,3,4]); -> [11,12,13,14]
-
+//git commit test comment
 function addTen(inputArray) {
   let newArr = [];
   // Code here
